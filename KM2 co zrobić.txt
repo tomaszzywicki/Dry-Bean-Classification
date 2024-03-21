@@ -1,0 +1,22 @@
+CZ 1 - Inżynieria cech
+
+1. Enkodowanie kategorycznych (u nas zmienna celu)
+2. Transformacje kolumn (pewnie będą)
+3. Skalowanie żeby np był rozkład normalny (można zrobić i popatrzeć na accuracy dla niektórych modeli)
+4. Usuwanie outlierów (też warto by było imo, popatrzeć sobie na testowym jak to się zachowuje ogólnie jak w niektórych kolumnach było
+                       najebane tych outlierów albo jeśli te kolumny mają wysoką korelację z innymi to może można by było je wyjebać a
+                       wziąć pod uwagę te co tych autlierów dużo nie mają)
+5. Można zrobić ten las losowy z wykładu co pokazuje które kolumny są G.
+
+ogółem myślę że robimy to w różnych plikach, nie usuwamy kodu ew. nie będziemy go całego pokazywać
+używamy sobie różnych pętli, pipelinów, można będzie definiować funkcje żeby się nie powtarzać itd.
+
+CZ 2 - Wstępne modelowanie
+
+6. Zrobić model baselinowy (można rozpatrzeć kilka różnych) 
+7. Przygotować kilka prostych właściwych modeli z labów albo innych
+8. Ewaluacja wyników powyższych modeli z różnymi metrykami nie tylko accuracy (ej wspomnijmy o czymś takim że np jak jest confusion matrix
+    to np bierzemy pod uwagę wyniki takie że jest mało źle zaklasyfikowanych czy coś bo ktoś jest np uczulony na fasolę bombay XD [tak jak z
+    tym klasyfikowaniem na raka czy coś] albo nie zobaczymy to luźny pomysł)
+9. Można popatrzeć na hiperparametry i jak to wpływa na wyniki, żeby wiedzieć które optymalizować
+
