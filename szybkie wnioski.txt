@@ -17,4 +17,11 @@ Możliwe modele:
 - KNeighbours
 - DecisionTree
 - GaussianNB, MultinommialNB
--
+
+
+Na suchych danych:
+1. SVM 0.91
+2. DecisionTree z tuningiem 0.9
+3. KNeighbours z tuningiem 0.88
+3. Bayes 0.756
+4. Linear SVC 0.478
