@@ -10,3 +10,11 @@ Sensowne metryki:
 - accuracy
 - confusion matrix
 - ten raporcik (precision recall f1)
+
+
+Możliwe modele:
+- LogisticRegression
+- KNeighbours
+- DecisionTree
+- GaussianNB, MultinommialNB
+-
