@@ -1,2 +1,12 @@
 SVC zajebiście 0.91
 confusion matrix do zrobienia wizualnie i nie tylko
+może wyjebać 3 kolumny te co w edzie
+
+
+
+
+
+Sensowne metryki:
+- accuracy
+- confusion matrix
+- ten raporcik (precision recall f1)
