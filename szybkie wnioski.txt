@@ -20,8 +20,10 @@ Możliwe modele:
 
 
 Na suchych danych:
+1. Random Forest 0.925
 1. SVM 0.91
 2. DecisionTree z tuningiem 0.9
 3. KNeighbours z tuningiem 0.88
-3. Bayes 0.756
-4. Linear SVC 0.478
+4. Bayes 0.756
+5. SGD Classifier 0.637
+6. Linear SVC 0.478
