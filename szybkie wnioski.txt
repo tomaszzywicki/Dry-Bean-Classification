@@ -12,12 +12,6 @@ Sensowne metryki:
 - ten raporcik (precision recall f1)
 
 
-Możliwe modele:
-- LogisticRegression
-- KNeighbours
-- DecisionTree
-- GaussianNB, MultinommialNB
-
 
 Na suchych danych:
 1. Random Forest 0.925
