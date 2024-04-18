@@ -1,0 +1,22 @@
+Sensowne metryki:
+- accuracy
+- confusion matrix
+- ten raporcik (precision recall f1)
+
+
+
+Na suchych danych:
+1. Random Forest 0.925
+1. SVM 0.91
+2. DecisionTree z tuningiem 0.9
+3. KNeighbours z tuningiem 0.88
+4. Bayes 0.756
+5. SGD Classifier 0.637
+6. Linear SVC 0.478
+
+
+Co jeszcze można zrobić:
+- Popatrzeć różne kombinacje kolumn i jakieś nowe kolumny robić (tak jak ShapeFactor5) bo może coś pomoże kto wie
+- Ewentualnie jakieś transformacje kolumn funkcjami ale chuj wie jakie mogłyby być
+- Pozmieniać sobie wagi w Voting Classifier może coś poprawi minimalnie
+- Jakieś pipeliny może ale nie wiem jak sie to dokładnie robi chyba po prostu ma skrócić kod ale nam to nie za bardzo potrzebne

@@ -20,3 +20,6 @@ CZ 2 - Wstępne modelowanie
     tym klasyfikowaniem na raka czy coś] albo nie zobaczymy to luźny pomysł)
 9. Można popatrzeć na hiperparametry i jak to wpływa na wyniki, żeby wiedzieć które optymalizować
 
+
+
+wykresy kropkowe jeszcze z alphą żeby patrzec na k nearest neighbours
