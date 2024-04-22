@@ -1,9 +1,0 @@
-https://scikit-learn.org/stable/modules/feature_selection.html
-feature selection
-
-
-trzeba testować te modele raw i potem kroswalidacyjnie (lab 3)
-do tego jeszcze ensemble (czyli te połączone modele, jakiś stacking, hardsoft itd) (lab 4)
-jakiś bootstrap może bagging boosting
-
-do każdego będzie taki raporcik, macierze itd
