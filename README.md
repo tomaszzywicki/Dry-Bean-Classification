@@ -1,1 +1,1 @@
-# Intro-to-ML-Project-1
+# Dry-Bean-Classification
